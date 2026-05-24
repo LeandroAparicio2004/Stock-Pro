@@ -1,0 +1,11 @@
+dist/
+build/
+*.spec
+
+*.spdb
+
+stockpro_config.json
+
+__pycache__/
+*.pyc
+*.pyo
