@@ -3,9 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2-2E86C1?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![License](https://img.shields.io/badge/Licencia-Privada-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Estado-Activo-27AE60?style=for-the-badge)
-
 > Sistema de control de stock profesional, portable y multi-empresa. Desarrollado en Python con interfaz gráfica.
 
 ---
